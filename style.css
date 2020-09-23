@@ -1,5 +1,5 @@
 body {
-    background: black;
+    background: rgb(134, 134, 134);
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     flex-direction: column;
@@ -49,4 +49,11 @@ main {
 
 .input-stuff {
     padding: 10px;
+}
+
+.randomize {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
